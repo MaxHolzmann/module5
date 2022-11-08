@@ -8,7 +8,7 @@ Enter text into the text input fields to the right of the time, and hit the corr
 
 ## Deployment
 
-You can view this application live at [this link]()
+You can view this application live at [this link](https://maxholzmann.github.io/work-day-scheduler/)
 
 ## Screenshot
 ![readmefile5](https://user-images.githubusercontent.com/16532491/200677980-bb53f240-2a66-4bec-9060-3b4807ce7565.PNG)
